@@ -1,0 +1,26 @@
+{
+  "source": "https://github.com/google/fonts",
+  "downloaded": "2026-10-07",
+  "files": [
+    {
+      "file": "noto-sans-normal.woff2",
+      "fontVersion": "Version 2.015",
+      "originalTTFSHA256": "bfb7bb691513f12e734dc346c03a03f784912432d7e3fa8e56efcf906fe86b3d"
+    },
+    {
+      "file": "noto-sans-italic.woff2",
+      "fontVersion": "Version 2.015",
+      "originalTTFSHA256": "58e6e0ebd1931b29a365aa2d3e2ee9a9e831a3af7cf3ad1462d4e72154f0b291"
+    },
+    {
+      "file": "noto-serif-normal.woff2",
+      "fontVersion": "Version 2.015",
+      "originalTTFSHA256": "4d8e6761424656867019081a1a01336f3cb086982682698714054fc33f782713"
+    },
+    {
+      "file": "noto-serif-italic.woff2",
+      "fontVersion": "Version 2.013",
+      "originalTTFSHA256": "e87acbc6c0efd0d9a20d6a8cbbda2b266c14be3a3a6f5af8ec9d7b2460570ad1"
+    }
+  ]
+}

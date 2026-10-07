@@ -1,1 +1,35 @@
-/* Local/system fonts only: the presentation does not depend on a font CDN. */
+/* Complete local Noto variable fonts (Latin, Greek and Cyrillic).
+   Each face includes Vietnamese vowels and combining marks in the same file.
+   No unicode-range splitting or external font request; see docs/FONT_CREDITS.md. */
+
+@font-face {
+  font-family: 'Noto Sans Variable';
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url('./assets/fonts/noto-sans-normal.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Noto Sans Variable';
+  font-style: italic;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url('./assets/fonts/noto-sans-italic.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Noto Serif Variable';
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url('./assets/fonts/noto-serif-normal.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Noto Serif Variable';
+  font-style: italic;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url('./assets/fonts/noto-serif-italic.woff2') format('woff2');
+}
