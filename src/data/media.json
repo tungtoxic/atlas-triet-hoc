@@ -1,0 +1,134 @@
+{
+  "marx": {
+    "id": "marx",
+    "label": "Karl Marx",
+    "path": "images/marx.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Karl_Marx_001.jpg",
+    "author": "John Jabez Edwin Mayall",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "caption": "Portrait of Karl Marx (1818–1883)",
+    "modified": "Ảnh được thu nhỏ và có thể cắt khung khi hiển thị."
+  },
+  "engels": {
+    "id": "engels",
+    "label": "Friedrich Engels",
+    "path": "images/engels.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Friedrich_Engels_portrait_(cropped).jpg",
+    "author": "William Hall (1826–ca. 1898) (cropped and sepia tone removed)",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "caption": "Portrait photography of Friedrich Engels",
+    "modified": "Ảnh được thu nhỏ và có thể cắt khung khi hiển thị."
+  },
+  "kant": {
+    "id": "kant",
+    "label": "Immanuel Kant",
+    "path": "images/kant.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Immanuel_Kant_(painted_portrait).jpg",
+    "author": "unbekannt, möglicherweise Elisabeth von Stägemann (Schule von Anton Graff)",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "caption": "Immanuel Kant, Prussian philosopher",
+    "modified": "Ảnh được thu nhỏ và có thể cắt khung khi hiển thị."
+  },
+  "hegel": {
+    "id": "hegel",
+    "label": "G. W. F. Hegel",
+    "path": "images/hegel.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Hegel_portrait_by_Schlesinger_1831.jpg",
+    "author": "Jakob Schlesinger (1792-1855)",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "caption": "G. W. F. Hegel",
+    "modified": "Ảnh được thu nhỏ và có thể cắt khung khi hiển thị."
+  },
+  "feuerbach": {
+    "id": "feuerbach",
+    "label": "Ludwig Feuerbach",
+    "path": "images/feuerbach.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Ludwig_Feuerbach.jpg",
+    "author": "Edward Knapczyk",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "caption": "Pastel, format A-4. Ludwig Feuerbach był uczniem Hegla, należąc do tzw. lewicy heglowskiej. Wkrótce jednak odrzucił heglizm przyjmując w metafizyce poglądy materialistyczne. Swoje credo wyraził słowami: Myśl z bytu, a nie byt z myśli. Podkreślał materialność człowieka (Człowiek j",
+    "modified": "Ảnh được thu nhỏ và có thể cắt khung khi hiển thị."
+  },
+  "nietzsche": {
+    "id": "nietzsche",
+    "label": "Friedrich Nietzsche",
+    "path": "images/nietzsche.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Nietzsche187a.jpg",
+    "author": "Friedrich Hermann Hartmann",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "caption": "Friedrich Nietzsche, circa 1875.",
+    "modified": "Ảnh được thu nhỏ và có thể cắt khung khi hiển thị."
+  },
+  "kierkegaard": {
+    "id": "kierkegaard",
+    "label": "Søren Kierkegaard",
+    "path": "images/kierkegaard.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Kierkegaard.jpg",
+    "author": "Neils Christian Kierkegaard",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "caption": "Sketch of Søren Kierkegaard. Based on a sketch by Niels Christian Kierkegaard (1806-1882).",
+    "modified": "Ảnh được thu nhỏ và có thể cắt khung khi hiển thị."
+  },
+  "sartre": {
+    "id": "sartre",
+    "label": "Jean-Paul Sartre",
+    "path": "images/sartre.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Jean-Paul_Sartre_FP.JPG",
+    "author": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "caption": "Jean-Paul Sartre (um 1950)",
+    "modified": "Ảnh được thu nhỏ và có thể cắt khung khi hiển thị."
+  },
+  "beauvoir": {
+    "id": "beauvoir",
+    "label": "Simone de Beauvoir",
+    "path": "images/beauvoir.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Simone_de_Beauvoir2.png",
+    "author": "Moshe Milner",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "caption": "Simone de Beauvoir en 1967",
+    "modified": "Ảnh được thu nhỏ và có thể cắt khung khi hiển thị."
+  },
+  "industrial": {
+    "id": "industrial",
+    "label": "Nhà máy dệt, thế kỷ XIX",
+    "path": "images/industrial.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Powerloom_weaving_in_1835.jpg",
+    "author": "Illustrator T. Allom, Engraver J. Tingle",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "caption": "Illustration of power loom weaving.",
+    "modified": "Ảnh được thu nhỏ và có thể cắt khung khi hiển thị."
+  },
+  "hcm": {
+    "id": "hcm",
+    "label": "Hồ Chí Minh",
+    "path": "images/hcm.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Ho_Chi_Minh_1946.jpg",
+    "author": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "caption": "Hồ Chí Minh also known as Nguyễn Ái Quốc",
+    "modified": "Ảnh có thể được cắt khung khi hiển thị."
+  },
+  "confucius": {
+    "id": "confucius",
+    "label": "Khổng Tử",
+    "path": "images/confucius.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Confucius_the_scholar.jpg",
+    "author": "Unknown",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "caption": "Khổng Tử",
+    "modified": "Ảnh có thể được cắt khung khi hiển thị."
+  }
+}
